@@ -2,7 +2,12 @@ body{font-family: 'Pacifico', cursive;
     font-family: 'Pushster', cursive;}
     h1{font-size: 60px;}
     .antu-name{color: rgb(230, 120, 17);}
-    section{display: flex;}
+    .two-file{display: flex;}
     .first-page{width: 50%;
     padding: 5%;}
     .first-page img{width: 80%;}
+    .second-page{width: 70%;}
+    .second-page img{width: 70%;}
+    .second-page img{height: 80%;}
+    .third-page img{width: 100%;}
+    .fourth-page img{width: 50%;}
