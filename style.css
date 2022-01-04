@@ -17,3 +17,16 @@ body{font-family: 'Pacifico', cursive;
     .sky-blue{color: rgb(14, 151, 241);}
     .green{color: rgb(9, 99, 5);}
     .color-contact{color: rgb(247, 75, 7);}
+    .fourth-page{
+        border-image: liner gradient(blue,cyan);
+        box-shadow:10px 10px 20px rgb(88, 78, 78);
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 20px;
+border-radius: 10px;
+border-left: 7px solid;
+border-image: -slice 1;
+    }
+    
+    #last-word{color: rgb(16, 240, 147);
+    text-align: center;}
