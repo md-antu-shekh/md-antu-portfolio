@@ -10,4 +10,6 @@ body{font-family: 'Pacifico', cursive;
     .second-page img{width: 70%;}
     .second-page img{height: 80%;}
     .third-page img{width: 100%;}
-    .fourth-page img{width: 50%;}
+    .fourth-page{width: 50%;}
+    .fourth-page{font-size: 20px;}
+    p{color: rgb(110, 8, 8);}
